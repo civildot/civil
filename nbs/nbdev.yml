@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "civil"
+  site-url: "https://civildot.github.io/civil"
+  description: "An all-encompassing civil engineering library."
+  repo-branch: main
+  repo-url: "https://github.com/civildot/civil"
